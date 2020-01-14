@@ -22,7 +22,7 @@ To set up this application, run:
 
     bin/setup
 
-This command will check your system for necessary dependencies, and guide you on how to install any missing. Re-run the command until you see “You're good to go!”
+This command will check your system for necessary dependencies, and guide you on how to install any missing. Re-run the command until you see “You're good to go go go!”
 
 To run the tests:
 
